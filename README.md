@@ -24,7 +24,10 @@ This is my macro pad designed for gaming and fun shortcuts. It has 7 keys and an
 
 | Item | Qty | Description 
 |------|-----|-------------|
-| Seeed Studio Xiao RP2040 | 1 | Main microcontroller module |
-| 0.91" OLED Display | 1 | I²C OLED module |
-| Cherry MX‑Style Switches | 7 | Mechanical key switches |
+| XIAO RP2040 | 1 | Main controller |
+| 0.91" 128x32 OLED Display | 1 | OLED Screen |
+| Cherry MX Switches | 7 | Key switches |
+| DSA Keycaps| 7 | Keycaps for the switches |
+| Case | 1 | Two 3D printed parts |
+
 ---
