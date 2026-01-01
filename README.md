@@ -4,7 +4,7 @@ This is my macro pad designed for gaming and fun shortcuts. It has 7 keys and an
 
 ---
 
-## 📸 Images
+## Images
 
 ### Full Board (Top View)
 ![Full Board](fullboard.png)
@@ -20,7 +20,7 @@ This is my macro pad designed for gaming and fun shortcuts. It has 7 keys and an
 
 ---
 
-## 📦 Bill of Materials (BOM)
+##(BOM)
 
 | Item | Qty | Description 
 |------|-----|-------------|
