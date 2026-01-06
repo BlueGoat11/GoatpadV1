@@ -20,6 +20,10 @@ This is my macro pad designed for gaming and fun shortcuts. It has 7 keys and an
 
 ---
 
+## jlcpcb.com estimate
+![Estimate](/Production/jlcpcbquote.png)
+
+
 ##(BOM)
 
 | Item | Qty | Description 
